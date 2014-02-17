@@ -1,0 +1,6 @@
+== Welcome to CKEditor Demo for SPREE
+
+This is demo of the CKEditor using the SpreeEditor gem with SPREE e-commerce engine
+
+Please refer to blog post 
+http://zingtech.co.nz/blog/spree_ck_editor_pages
